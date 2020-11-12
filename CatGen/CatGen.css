@@ -1,0 +1,22 @@
+.container2 {
+    border: 1px solid orange;
+    padding: 10px;
+    text-align:center;
+    margin: 0 auto;
+    width:70%;
+    color: green;
+    /* overflow-y: scroll;
+    position: relative; */
+}
+.Image {
+    justify-content:space-around;
+    display:flex;
+    flex-wrap:wrap;
+}
+.Image img {
+    border:1px solid green;
+    padding:2px;
+    margin:30px;
+    height:200px;
+    width:200px;
+}
